@@ -1,20 +1,26 @@
 # Teste-Tecnico-01
 
 Para rodar o projeto:
-1) Clique no Code em verde nesta página
-2) Clique em Download ZIP e aceite o download
-3) Abra a pasta de destino do downlaod e descompacte o .zip 
-3) Abra o diretório descompactado
+<ol>
+  <li>Clique no Code em verde nesta página</li>
+  <li>Clique em Download ZIP e aceite o download</li>
+  <li>Abra a pasta de destino do downlaod e descompacte o .zip </li>
+  <li>Abra o diretório descompactado</li>
+</ol>
 
-em javascript:
-3) Entre no diretório javascript
-4) Abra o index.html com um navegador
-5) Digite um número na caixa (por exemplo 9) e aperte em Calcular
-6) Será feito o calculo e o resultado aparecerá (Ex: A somatória é: 14)
+<p>em javascript:<p>
+<ol start="5">
+  <li>Entre no diretório javascript</li>
+  <li>Abra o index.html com um navegador</li>
+  <li>Digite um número na caixa (por exemplo 9) e aperte em Calcular</li>
+  <li>Será feito o calculo e o resultado aparecerá (Ex: A somatória é: 14)</li>
+</ol>
 
-em dart:
-3) Entre no diretório dart
-4) Abra um terminal neste diretório
-5) Execute o comando: dart run ./lib/main.dart 
-6) Digite um número (exemplo: 10) e aperte Enter
-7) Será feito e o resultado aparecerá (Ex: A somatória é: 23)
+<p>em dart:</p>
+<ol start="5">
+<li>Entre no diretório dart</li>
+<li>Abra um terminal neste diretório</li>
+<li>Execute o comando: dart run ./lib/main.dart</li>
+<li>Digite um número (exemplo: 10) e aperte Enter</li>
+<li>Será feito e o resultado aparecerá (Ex: A somatória é: 23)</li>
+</ol>
